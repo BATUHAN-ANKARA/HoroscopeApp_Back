@@ -1,0 +1,179 @@
+[
+  {
+    "id": "1",
+    "name": "Mecnun (Joker)",
+    "description": "Joker kartı serinin ilk kartıdır ve yeni başlangıçları simgeler. Joker yeni bir başlangıca doğru yola çıkar ve çantasında ihtiyacı olan her şey vardır. Yanında bulunan köpek simgesi ise onu düşmekten kurtarmaya yardım edecek, uyaracak etkenlerdir. Yeni başlangıçları ve fırsatları niteleyen karttır. ",
+    "interpretation": "Bu kart, önümüzdeki haftalarda yeni bir şeyler denemek için cesaret ve özgüven bulabileceğinizi gösterir. Bu kartın size sunduğu fırsatları cesaretle değerlendirmeniz, hayatınızda yeni bir dönemin başlangıcına işaret edebilir."
+  },
+  {
+    "id": "2",
+    "name": "Büyücü",
+    "description": "Büyücü kartı irade ve arzu kullanılarak sakinleştirilen erkek gücünü temsil eder. Özgürlüğü, yaratıcılığı, beceriyi, kendine güveni ve el becerisini gösterir. İddialı bir kariyer, aşk hayatı ya da yeni iş olarak yorulabilir. ",
+    "interpretation": "Bu kart, güçlü bir kararlılık ve özgüvenle hareket etmeniz gerektiğinde size ilham verebilir. Yaratıcılık ve enerjinizi doğru kullanarak, önemli bir projede veya hayatınızdaki diğer hedeflerde başarılı olabilirsiniz."
+  },
+  {
+    "id": "3",
+    "name": "Azize",
+    "description": "Cinsellik, gizem ve genel anlamdaki yüksek gücü gösterir. Bilgelik, öğrenme, saflık, sabırsızlık, öğretmenlik ve erdemi gösterir. Karara varmadan önce zaman tanınması gerektiğini söyler. ",
+    "interpretation": "Bu kart, hayatınızda daha derin bir anlam arayışına işaret eder. İnancınızın size rehberlik etmesine izin verin ve kendinizi spiritüel bir yolculuğun parçası olarak görün. Bilgeliğin ve anlayışın arayışı, hayatınızdaki sorunların üstesinden gelmenize yardımcı olabilir."
+  },
+  {
+    "id": "4",
+    "name": "İmparatoriçe",
+    "description": "Bolluk ve bereketi simgeler. Annelik, kadınlık ve doğurganlığın göstergesidir. Romantizm, sanat ve diğer konularda yaratıcılığı sembolize eder. Gerçekleşmesini istediğiniz dilekler için sabırlı olunması gerektiğini vurgular.",
+    "interpretation": "Bu kart, yaratıcılık ve üretkenlik dönemlerinde size ilham verebilir. İş, sanat veya ilişkilerinizde önemli bir dönüm noktasında olabilirsiniz. Bu kart, büyümeye ve gelişmeye işaret ederken, sağduyulu ve sevgi dolu bir yaklaşımın önemini de hatırlatır."
+  },
+
+  {
+    "id": "5",
+    "name": "İmparator",
+    "description": "İmparator güven, servet, istikrar, baba figürü, erkek kardeş, koca, başarılı ve liderlik vasfı olan gücü temsil eder. cesur ve komuta sahibi olmayı gösterir. Aynı zamanda saldırganlık içerir. Liderliği gösterir.",
+    "interpretation": "Bu kart, yaratıcılık ve üretkenlik dönemlerinde size ilham verebilir. İş, sanat veya ilişkilerinizde önemli bir dönüm noktasında olabilirsiniz. Bu kart, büyümeye ve gelişmeye işaret ederken, sağduyulu ve sevgi dolu bir yaklaşımın önemini de hatırlatır."
+  },
+  {
+    "id": "6",
+    "name": "Aziz",
+    "description": "Aziz geleneksel değerlerin sembolizmidir. Din veya maneviyat ile ilişkilendirilir. Bu anlam açısından topluma uygunluk, sosyal onay, affetme, merhamet ve ilham alma ihtiyaçlarını gösterir. ",
+    "interpretation": "Bu kart, yaratıcılık ve üretkenlik dönemlerinde size ilham verebilir. İş, sanat veya ilişkilerinizde önemli bir dönüm noktasında olabilirsiniz. Bu kart, büyümeye ve gelişmeye işaret ederken, sağduyulu ve sevgi dolu bir yaklaşımın önemini de hatırlatır."
+  },
+
+  {
+    "id": "7",
+    "name": "Aşıklar",
+    "description": "Aşk, romantizm, bağ, cazibe ve kusursuz uyumu simgeler. Sevgi, uyum, güven ve romantizmin başlangıcını gösterir. Yaşayacağınız şeyden kaçmadan ya da hızlı karar vermeden önce sizi düşünmeye teşvik eder. ",
+    "interpretation": "Bu kart, yaratıcılık ve üretkenlik dönemlerinde size ilham verebilir. İş, sanat veya ilişkilerinizde önemli bir dönüm noktasında olabilirsiniz. Bu kart, büyümeye ve gelişmeye işaret ederken, sağduyulu ve sevgi dolu bir yaklaşımın önemini de hatırlatır."
+  },
+
+  {
+    "id": "8",
+    "name": "Araba",
+    "description": "Zor kazanılan başarıları gösterir. Azimli bir yolculuk, acele verilen kararlar, intikam hissini ifade eder. Aynı zamanda durgun bir durumun harekete geçeceği konusundaki motivasyonu gösterir. ",
+    "interpretation": "Bu kart, yaratıcılık ve üretkenlik dönemlerinde size ilham verebilir. İş, sanat veya ilişkilerinizde önemli bir dönüm noktasında olabilirsiniz. Bu kart, büyümeye ve gelişmeye işaret ederken, sağduyulu ve sevgi dolu bir yaklaşımın önemini de hatırlatır."
+  },
+
+  {
+    "id": "9",
+    "name": "Adalet",
+    "description": "Soğuk ve nesnel dengeyi anlatmaktadır. Karma gerçeğini yüzler önüne vurur. Doğruluk, uyum, denge, eşitlik, erdem, onur gibi tavsiyeleri simgeler. Fiziksel, sosyal, manevi ve duygusal yaşantıyı tekrar dengelemek için bir fırsatı gösterir.",
+    "interpretation": "Bu kart, yaratıcılık ve üretkenlik dönemlerinde size ilham verebilir. İş, sanat veya ilişkilerinizde önemli bir dönüm noktasında olabilirsiniz. Bu kart, büyümeye ve gelişmeye işaret ederken, sağduyulu ve sevgi dolu bir yaklaşımın önemini de hatırlatır."
+  },
+
+  {
+    "id": "10",
+    "name": "Ermiş",
+    "description": "İç gözlem, analiz ve kendini yansıtmakla ilgilidir. Sosyalleşmekten ve eyleme geçmekten uzak durulması gerektiğini söyler. Barış ve yalnızlığı anlatır. Sabırlı olmayı, öğüt almayı ve geri çekilmeyi gösterir. Yalnız kalma beklentisine girildiği bir dönemdir.  ",
+    "interpretation": "Bu kart, yaratıcılık ve üretkenlik dönemlerinde size ilham verebilir. İş, sanat veya ilişkilerinizde önemli bir dönüm noktasında olabilirsiniz. Bu kart, büyümeye ve gelişmeye işaret ederken, sağduyulu ve sevgi dolu bir yaklaşımın önemini de hatırlatır."
+  },
+
+  {
+    "id": "11",
+    "name": "Kader Çarkı",
+    "description": "Beklenmeyen olayları ve yaşanacak ilerlemeyi gösterir. Beklenmedik bir olay, bir düşüş ya da şanslı bir durum olacağını ifade eder. Her şey yolundadır ve evren sizin yanınızdadır. Fakat her şey her an değişebilmektedir. ",
+    "interpretation": "Bu kart, yaratıcılık ve üretkenlik dönemlerinde size ilham verebilir. İş, sanat veya ilişkilerinizde önemli bir dönüm noktasında olabilirsiniz. Bu kart, büyümeye ve gelişmeye işaret ederken, sağduyulu ve sevgi dolu bir yaklaşımın önemini de hatırlatır."
+  },
+
+  {
+    "id": "12",
+    "name": "Güç",
+    "description": "Enerji ve cesareti simgeler. Korkmayan bir kadın temsilidir. Ölümsüz, inatçı ve kararlı bir duruşu gösterir. Kararlı eylemlerin harekete geçtiğini söyler. İç güce önem verilmesi gerektiğini söyler.",
+    "interpretation": "Bu kart, yaratıcılık ve üretkenlik dönemlerinde size ilham verebilir. İş, sanat veya ilişkilerinizde önemli bir dönüm noktasında olabilirsiniz. Bu kart, büyümeye ve gelişmeye işaret ederken, sağduyulu ve sevgi dolu bir yaklaşımın önemini de hatırlatır."
+  },
+
+  {
+    "id": "13",
+    "name": "Asılan Adam",
+    "description": "Deneme, yanılma, başarısızlık, fedakarlık gibi anlamları gösterir. Durumları askıya alma, değiştirme, tersine çevirme, fedakarlık gösterme gibi olayları gösterir. Direnmeyi bırakmayı ve zamanı takip etmeyi söyler. ",
+    "interpretation": "Bu kart, yaratıcılık ve üretkenlik dönemlerinde size ilham verebilir. İş, sanat veya ilişkilerinizde önemli bir dönüm noktasında olabilirsiniz. Bu kart, büyümeye ve gelişmeye işaret ederken, sağduyulu ve sevgi dolu bir yaklaşımın önemini de hatırlatır."
+  },
+
+  {
+    "id": "14",
+    "name": "Ölüm",
+    "description": "Büyük bir dönüşümü ve yeni başlangıçları gösterir. Yenilikler, değişimler, dönüşümler, kayıplar, iyi ya da kötü pek çok haberin öncüsüdür. Kaderi ve acıları kucaklamayı söyler.",
+    "interpretation": "Bu kart, yaratıcılık ve üretkenlik dönemlerinde size ilham verebilir. İş, sanat veya ilişkilerinizde önemli bir dönüm noktasında olabilirsiniz. Bu kart, büyümeye ve gelişmeye işaret ederken, sağduyulu ve sevgi dolu bir yaklaşımın önemini de hatırlatır."
+  },
+
+  {
+    "id": "15",
+    "name": "Denge",
+    "description": "Uyum, barış ve sabır gerekmesini anlatır. İyi etki ve güveni simgeler. Davranışların yumuşatılması için bir uyarı niteliği taşır. Uzlaşmayı öngörür. Çok çalışmanın göstergesidir. ",
+    "interpretation": "Bu kart, yaratıcılık ve üretkenlik dönemlerinde size ilham verebilir. İş, sanat veya ilişkilerinizde önemli bir dönüm noktasında olabilirsiniz. Bu kart, büyümeye ve gelişmeye işaret ederken, sağduyulu ve sevgi dolu bir yaklaşımın önemini de hatırlatır."
+  },
+
+  {
+    "id": "16",
+    "name": "Şeytan",
+    "description": "Tamamen hırs, bağımlılık, ayartma ve depresyon özelliklerini taşır. Beklenmedik başarısızlık, tartışma, şiddet, felaket ya da garip deneyimler geldiğini öngörür. Kısıtlanmış değil, tutkulu ve hırslı olunması konusunda uyarıda bulunur. ",
+    "interpretation": "Bu kart, yaratıcılık ve üretkenlik dönemlerinde size ilham verebilir. İş, sanat veya ilişkilerinizde önemli bir dönüm noktasında olabilirsiniz. Bu kart, büyümeye ve gelişmeye işaret ederken, sağduyulu ve sevgi dolu bir yaklaşımın önemini de hatırlatır."
+  },
+
+  {
+    "id": "17",
+    "name": "Kule",
+    "description": "Yeni bir dinamik yaratmayı temsil eder. Eski fikirlerin çöktüğünü, ani ve büyük bir değişiklik yaşanacağını söyler. Kaos ve sıkıntının hakim gezeceği bir durumu anlatır. Geçmişin tozlu sayfalarını geride bırakmayı, para kaybını ya da kısa süreli bir mutluluğu gösterir.",
+    "interpretation": "Bu kart, yaratıcılık ve üretkenlik dönemlerinde size ilham verebilir. İş, sanat veya ilişkilerinizde önemli bir dönüm noktasında olabilirsiniz. Bu kart, büyümeye ve gelişmeye işaret ederken, sağduyulu ve sevgi dolu bir yaklaşımın önemini de hatırlatır."
+  },
+
+  {
+    "id": "18",
+    "name": "Yıldız",
+    "description": "Geleceği görüşü ve manevi iç görüyü temsil eder. Umut, inanç, ilham, iyimserlik, manevi aşk, denge ve zevki gösterir. Zorlukların aşıldığını ve sonrasında yaşanacaklar için hazır olduğunuzu söyler. Sakinliğin ve pozitifliğin gerekliliğini vurgular. ",
+    "interpretation": "Bu kart, yaratıcılık ve üretkenlik dönemlerinde size ilham verebilir. İş, sanat veya ilişkilerinizde önemli bir dönüm noktasında olabilirsiniz. Bu kart, büyümeye ve gelişmeye işaret ederken, sağduyulu ve sevgi dolu bir yaklaşımın önemini de hatırlatır."
+  },
+
+  {
+    "id": "19",
+    "name": "Ay",
+    "description": "İlk izlenimlerinize güvenmemeniz gerektiğini ve bazı şeylerin yanlış olabileceğini söyler. Kaygı, aldatma, hayal kırıklığı, tehlike ve çifte ilişkiyi gösterir. Zihinsel ya da duygusal denemelerden geçtiğiniz söylenir. Bilinçaltınızdaki seslere kulak vermenizi söyler.",
+    "interpretation": "Bu kart, yaratıcılık ve üretkenlik dönemlerinde size ilham verebilir. İş, sanat veya ilişkilerinizde önemli bir dönüm noktasında olabilirsiniz. Bu kart, büyümeye ve gelişmeye işaret ederken, sağduyulu ve sevgi dolu bir yaklaşımın önemini de hatırlatır."
+  },
+
+  {
+    "id": "20",
+    "name": "Güneş",
+    "description": "Pozitif enerjiyi gösterir. Memnuniyet, başarı, neşenin yaşandığını söyler. Güneşin enerjisini ve spot ışıklarını üstünüzde hissedeceğinizi söyler. Her şey oyluna girecektir. ",
+    "interpretation": "Bu kart, yaratıcılık ve üretkenlik dönemlerinde size ilham verebilir. İş, sanat veya ilişkilerinizde önemli bir dönüm noktasında olabilirsiniz. Bu kart, büyümeye ve gelişmeye işaret ederken, sağduyulu ve sevgi dolu bir yaklaşımın önemini de hatırlatır."
+  },
+
+  {
+    "id": "21",
+    "name": "Mahkeme",
+    "description": "Kendimizi ve eylemlerimizi gösterdiğimiz, bunları değerlendirdiğimiz durumları ifade eder. Şu anda nerede ve nasıl olduğumuza bakar. Net ve nesnel bir görüş açısı vermek ister. Kendi gücünüzle değerlendirme yapmanızı ister. Mental, fiziksel ve duygusal açıdan kendi kendine büyümeyi temsil eder. Kişisel uyanış dönemini gösterir. ",
+    "interpretation": "Bu kart, yaratıcılık ve üretkenlik dönemlerinde size ilham verebilir. İş, sanat veya ilişkilerinizde önemli bir dönüm noktasında olabilirsiniz. Bu kart, büyümeye ve gelişmeye işaret ederken, sağduyulu ve sevgi dolu bir yaklaşımın önemini de hatırlatır."
+  },
+
+  {
+    "id": "22",
+    "name": "Dünya",
+    "description": "Başarılı bir sonuca ulaşmanın temsilidir. Yolculuğun tamamlandığını söyler. Başarı, onur, sonuç, zafer ve sonsuz yaşam, mükemmeliyet, tanınma gibi temsilleri sembolize eder. Sonucu ne olursa olsun iyiye gidecek bir durumdur.",
+    "interpretation": "Bu kart, yaratıcılık ve üretkenlik dönemlerinde size ilham verebilir. İş, sanat veya ilişkilerinizde önemli bir dönüm noktasında olabilirsiniz. Bu kart, büyümeye ve gelişmeye işaret ederken, sağduyulu ve sevgi dolu bir yaklaşımın önemini de hatırlatır."
+  },
+
+  {
+    "id": "23",
+    "name": "Değnek Kralı",
+    "description": "İlham alma zamanının geldiğini söyler. Risk almanın, yol göstermenin ve bir sıçrama döneminin geldiğine işaret eder. Heyecan verici, cesur ve dramatik adımlar atılabilir. Eyleme geçiren bir karttır. ",
+    "interpretation": "Bu kart, yaratıcılık ve üretkenlik dönemlerinde size ilham verebilir. İş, sanat veya ilişkilerinizde önemli bir dönüm noktasında olabilirsiniz. Bu kart, büyümeye ve gelişmeye işaret ederken, sağduyulu ve sevgi dolu bir yaklaşımın önemini de hatırlatır."
+  },
+
+  {
+    "id": "24",
+    "name": "Değnek Kraliçesi",
+    "description": "Çekici, içten, neşeli, enerjik ve kendine güvenen biri olmayı gösterir. Durumları olumlu yönden ele alır. Başarıya olan inancı sonsuz, fakat kibri yok denecek kadar azdır. Gereken şeyin kendine inanmak olduğunu ve enerji dolu olmayı ister. ",
+    "interpretation": "Bu kart, yaratıcılık ve üretkenlik dönemlerinde size ilham verebilir. İş, sanat veya ilişkilerinizde önemli bir dönüm noktasında olabilirsiniz. Bu kart, büyümeye ve gelişmeye işaret ederken, sağduyulu ve sevgi dolu bir yaklaşımın önemini de hatırlatır."
+  },
+
+  {
+    "id": "25",
+    "name": "Değnek Şövalyesi",
+    "description": "Yüzeysel büyüleyicilik, kendini beğenmişlik, aptallığın verdiği cesurluk, huzursuzluk veren bir maceracılık durumunu gösterir. Yeni adımlar atmaya asla korkmuyor gibi gözüken fakat tüm cesaretini tutkusundan alan birini sembolize eder. Enerjinin yararlı olup olmadığı konusunda ise düşünülmelidir. Adımın sonunda gelecek karşılığın dengeyi sağlayıp sağlamadığı incelenmelidir. ",
+    "interpretation": "Bu kart, yaratıcılık ve üretkenlik dönemlerinde size ilham verebilir. İş, sanat veya ilişkilerinizde önemli bir dönüm noktasında olabilirsiniz. Bu kart, büyümeye ve gelişmeye işaret ederken, sağduyulu ve sevgi dolu bir yaklaşımın önemini de hatırlatır."
+  },
+
+  {
+    "id": "26",
+    "name": "Değnek Prensi",
+    "description": "Hevesli, kendine güvenen ve yaratıcı birini gösterir. Yeni bir açık alan imkanı bulunacağının ve yeteneklerinizi beslemenize imkan tanınacağının göstergesidir. İlham alacağı, şans bulacağı, kendini ifade edeceği yeni bir yaklaşım bulmak üzeredir. ",
+    "interpretation": "Bu kart, yaratıcılık ve üretkenlik dönemlerinde size ilham verebilir. İş, sanat veya ilişkilerinizde önemli bir dönüm noktasında olabilirsiniz. Bu kart, büyümeye ve gelişmeye işaret ederken, sağduyulu ve sevgi dolu bir yaklaşımın önemini de hatırlatır."
+  }
+]
